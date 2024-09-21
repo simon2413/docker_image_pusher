@@ -1,2 +1,3 @@
 alpine:3.19.1
 pytorch/torchserve:0.11.0-gpu
+ghcr.io/open-webui/open-webui:main
